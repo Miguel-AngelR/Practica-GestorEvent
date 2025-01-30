@@ -3,20 +3,30 @@ Este es un proyecto de aplicación web que utiliza React, con un backend Nodejs 
 ### Implementación
 
 sh
+
 git clone
+
 cd Gestion-Eventos
+
 cd client 
+
 npm i
  
 ### Frontend
 sh
+
 cd Gestion-Eventos
+
 cd client
+
 npm run dev
  
 ### Backend 
+
 sh
+
 cd Gestion-Eventos
+
 npm run dev
 
 
